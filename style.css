@@ -1,13 +1,12 @@
 body {
+    background-color: #FFFACD;
+}
+h1 {
     background-color: #FFFFE0;
 }
-#flex {
-    display: flex;
-    flex-direction: row;
-}
 nav {
-    background-color: #98FB98;
+    background-color: #FFFACD;
 }
 main {
-    background-color: #E0FFFF;
+    background-color: #FFFFE0;
 }
